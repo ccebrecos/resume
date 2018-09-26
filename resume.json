@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Carlos González Cebrecos",
+    "label": "IT Engineer",
+    "picture": "https://www.ccebrecos.com/img/profile.png",
+    "email": "mail@ccebrecos.com",
+    "phone": "(+34) 608640844",
+    "website": "https://www.ccebrecos.com",
+    "summary": "Computer science and cryptography enthusiastic. Passionate about sports. After being dissapointed studying another kind of engineering I decided to move myself into computer science engineering at UAB, was at that point when I discovered the cryptocurriencies world and since then my life has become really interesting making projects in order to change the world !",
+    "location": {
+      "city": "Sabadell",
+      "countryCode": "ES",
+      "region": "Barcelona"
+    },
+    "profiles": [{
+        "network": "LinkedIn",
+        "username": "ccebrecos",
+        "url": "https://www.linkedin.com/in/ccebrecos/"
+      },
+      {
+        "network": "Github",
+        "username": "ccebrecos",
+        "url": "https://github.com/ccebrecos"
+      }
+    ]
+  },
+  "work": [{
+      "company": "Informàtica Ajuntament Sabadell",
+      "position": "SysAdmin",
+      "startDate": "2017-03-10",
+      "endDate": "2017-07-18",
+      "summary": "Company internships made while finishing the undergraduate studies at UAB. Helped there in the day by day work,making such a variety of things related to security, telecommunications and pentesting."
+    },
+    {
+      "company": "Ilimit Cloud & Telecom",
+      "position": "Blockchain Developer",
+      "startDate": "2017-09-14",
+      "endDate": "2018-05-31",
+      "website": "https://www.ilimit.com/en",
+      "summary": "Ilimit is a provider of technology and telecommunications services aimed at companies. Founded in 1995, it currently has over 1,000 clients and well-established infrastructure of a data centre and proprietary IP network.",
+      "highlights": [
+        "Working on blockchain technologies such Hyperledger. Also, doing some research over the Bitcoin network."
+      ]
+    },
+    {
+      "company": "BTC Assessors",
+      "position": "CIO & Developer",
+      "startDate": "2018-06-01",
+      "website": "https://www.btcassessors.com",
+      "summary": "",
+      "highlights": [
+        "Working on blockchain technologies. Building the future block by block."
+      ]
+    }
+  ],
+  "education": [{
+      "institution": "Universitat Autónoma de Barcelona (UAB)",
+      "area": "Computer Science Engineering",
+      "studyType": "University Degree",
+      "startDate": "2013-09-15",
+      "endDate": "2017-06-15",
+      "gpa": "3.34 (8.34/10 in Europe)",
+      "courses": [
+        "Digital Systems: From Logic Gates to Processors",
+        "Using Python to access web data",
+        "Bitcoin and Cryptocurrency Technologies",
+        "Blockchain for Business -An Introduction to Hyperledger Technologies"
+      ]
+    },
+    {
+      "institution": "Universitat Oberta de Catalunya (UOC)",
+      "area": "IT Security",
+      "studyType": "Master Degree",
+      "startDate": "2017-09-21"
+    }
+  ],
+  "awards": [{
+      "title": "1st place at University degree's gamification program",
+      "date": "2016-06-25",
+      "awarder": "dEIC.UAB.cat",
+      "summary": "TOP Enginyeria is an engineering gamification program implemented in several engineering degrees that aims students to go further than classes with extra projects, competitions, challenges and games apart from traditional classes, awarding the best students with symbolic rewards and extra activities to motivate them in their studies and improve their rivailry to get the best performance possible"
+    },
+    {
+      "title": "Best academic profile",
+      "date": "2017-11-24",
+      "awarder": "Universitat Autónoma de Barcelona",
+      "summary": "Best expedient award granted during the graduation ceremony."
+    }
+  ],
+  "publications": [{
+      "name": "Payment Channels over Bitcoin Network",
+      "publisher": "UAB",
+      "releaseDate": "2017-07-28",
+      "summary": "Bitcoin 'offchain' payment channels development over the Bitcoin network to improve Bitcoin scalability and increase transaction throughput between a group of parties using transactions out of the blockchain and game theory."
+    },
+    {
+      "name": "Bitcoin cloud nodes.",
+      "publisher": "UOC",
+      "releaseDate": "2018-06-11",
+      "summary": "This work aims to offer an alternative to install nodes individually and wants to provide a solution to the expensive needs for every node."
+    }
+  ],
+  "skills": [{
+      "name": "Cryptography",
+      "level": "Master",
+      "keywords": [
+        "Symmetric cryptography (AES, DSA)",
+        "Assymetric cryptography (RSA, ElGamal, ECDSA)",
+        "Public Key Infrastucture (PKI)",
+        "Zero-Knowledge proofs",
+        "Shared-secret-schemes",
+        "Blockchain",
+        "Bitcoin",
+        "Hyperledger"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "Android",
+        "Bash/shell",
+        "C",
+        "C++",
+        "Java",
+        "JavaEE (J2EE)",
+        "Java Server Pages (JSP)",
+        "JSON",
+        "LaTeX",
+        "Markdown",
+        "Matlab",
+        "NodeJS",
+        "Python 2",
+        "Python 3",
+        "SQL",
+        "XML"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "Bootstrap",
+        "CSS3",
+        "HTML5",
+        "Javascript",
+        "PHP"
+      ]
+    }
+  ],
+  "languages": [{
+      "language": "Catalan"
+    },
+    {
+      "language": "Spanish"
+    },
+    {
+      "language": "English"
+    },
+    {
+      "language": "French"
+    }
+  ]
+}

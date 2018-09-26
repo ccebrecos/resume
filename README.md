@@ -1,2 +1,1 @@
-# resume
-Personal resume
+Profesional resume.
