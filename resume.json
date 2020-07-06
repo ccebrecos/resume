@@ -44,7 +44,7 @@
     },
     {
       "company": "BTC Assessors",
-      "position": "CIO & Developer",
+      "position": "CIO & Full-Stack Developer",
       "startDate": "2018-06-01",
       "website": "https://www.btcassessors.com",
       "summary": "",
@@ -94,7 +94,7 @@
       "summary": "Bitcoin 'offchain' payment channels development over the Bitcoin network to improve Bitcoin scalability and increase transaction throughput between a group of parties using transactions out of the blockchain and game theory."
     },
     {
-      "name": "Bitcoin cloud nodes.",
+      "name": "Bitcoin cloud nodes",
       "publisher": "UOC",
       "releaseDate": "2018-06-11",
       "summary": "This work aims to offer an alternative to install nodes individually and wants to provide a solution to the expensive needs for every node."
@@ -108,10 +108,18 @@
         "Assymetric cryptography (RSA, ElGamal, ECDSA)",
         "Public Key Infrastucture (PKI)",
         "Zero-Knowledge proofs",
-        "Shared-secret-schemes",
-        "Blockchain",
+        "Shared-secret-schemes"
+      ]
+    },
+    {
+      "name": "Blockchain",
+      "level": "Master",
+      "keywords": [
         "Bitcoin",
-        "Hyperledger"
+        "Elements",
+        "Ethereum",
+        "Hyperledger",
+        "Multichain"
       ]
     },
     {
@@ -126,6 +134,7 @@
         "JavaEE (J2EE)",
         "Java Server Pages (JSP)",
         "JSON",
+        "Kotlin",
         "LaTeX",
         "Markdown",
         "Matlab",
@@ -133,6 +142,7 @@
         "Python 2",
         "Python 3",
         "SQL",
+        "TypeScript",
         "XML"
       ]
     },
@@ -140,6 +150,7 @@
       "name": "Web Development",
       "level": "Advanced",
       "keywords": [
+        "Angular",
         "Bootstrap",
         "CSS3",
         "HTML5",
